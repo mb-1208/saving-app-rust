@@ -6,7 +6,9 @@
 
 2. Install node_modules before run program:
     
+    ```shell
     $ yarn / yarn install / npm i / npm install
+    ```
        
 ## Generate 
 
